@@ -8,3 +8,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/123156111][1182_SPC560B60L7_ADC的CTU触发功能简介]]
 - [[https://greyzhang.blog.csdn.net/article/details/123156166][1183_SPC560B60L7_ADC的预采样]]
 - [[https://greyzhang.blog.csdn.net/article/details/123156194][1184_SPC560B60L7_ADC的模拟量看门狗、DMA以及中断]]
+- [[https://greyzhang.blog.csdn.net/article/details/123156225][1185_SPC560B60L7_ADC0标准通道的Injected转换模式]]
