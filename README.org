@@ -6,3 +6,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/123156021][1180_002_SPC560B60L7_ADC基础功能整理]]
 - [[https://greyzhang.blog.csdn.net/article/details/123156076][1181_SPC560B60L7_ADC的采样时间以及转换时间]]
 - [[https://greyzhang.blog.csdn.net/article/details/123156111][1182_SPC560B60L7_ADC的CTU触发功能简介]]
+- [[https://greyzhang.blog.csdn.net/article/details/123156166][1183_SPC560B60L7_ADC的预采样]]
